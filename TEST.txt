@@ -8,3 +8,5 @@ This one is for testing merge.
 To create some changes for example branch.
 
 updated locally
+
+Last update for some files.
