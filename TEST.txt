@@ -2,3 +2,6 @@
 
 This is my first sample project.
 This will work easily.
+
+This one is for testing merge.
+Merging the branches.
